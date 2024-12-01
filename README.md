@@ -182,22 +182,6 @@
         <p>172 Daimonds</p>
         <p>$2.79</p>
       </div>
-      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
-        <p>257 Daimonds</p>
-        <p>$4.00</p>
-      </div>
-      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
-        <p>343 Daimonds</p>
-        <p>$4.99</p>
-      </div>
-      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
-        <p>429 Daimonds</p>
-        <p>$6.70</p>
-      </div>
-      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
-        <p>514 Daimonds</p>
-        <p>$8.00</p>
-      </div>
       </div>
       
     <button class="button" onclick="submitDetails()">PayABA</button>
