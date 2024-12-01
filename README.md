@@ -226,7 +226,7 @@
             <input type="text" id="serverId" placeholder="Enter Server ID" required>
 
             <!-- Button to check the IDs -->
-            <button type="button" class="submit-btn" onclick="checkIds()">Check Player Name</button>
+            <button type="button" class="submit-btn" onclick="checkIds()">Check</button>
         </form>
 
         <!-- Display result after clicking the button -->
