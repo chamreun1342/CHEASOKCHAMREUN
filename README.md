@@ -198,29 +198,6 @@
         <p>514 Daimonds</p>
         <p>$8.00</p>
       </div>
-      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
-        <p>600 Daimonds</p>
-        <p>$9.30</p>
-      </div>
-      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
-        <p>706 Daimonds</p>
-        <p>$10.00</p>
-      </div>
-      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
-        <p>878 Daimonds</p>
-        <p>$12.70</p>
-      </div>
-      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
-        <p>963 Daimonds</p>
-        <p>$14.00</p>
-      </div>
-      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
-        <p>1049 Daimonds</p>
-        <p>$15.30</p>
-      </div>
-      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
-        <p>1135 Daimonds</p>
-        <p>$16.70</p>
       </div>
       
     <button class="button" onclick="submitDetails()">Submit</button>
