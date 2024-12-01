@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -140,7 +139,6 @@
             <p>10 នាទី បន្ទាប់ពីបញ្ចូលមិនបានសូមទំនាក់ទំនងសេវាកម្មដើម្បីជួយផងដែរ។</p>
         </div>
         <!-- Notice -->
-        <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
