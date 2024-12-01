@@ -260,6 +260,3 @@
       window.location.href = telegramUrl;
     }
   </script>
-
-</body>
-</html>
