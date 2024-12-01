@@ -200,7 +200,7 @@
       </div>
       </div>
       
-    <button class="button" onclick="submitDetails()">Submit</button>
+    <button class="button" onclick="submitDetails()">PayABA</button>
     <button class="telegram-btn button" onclick="goToTelegram()">Go to Telegram</button>
   </div>
 
