@@ -158,8 +158,71 @@
         <p>172 DM + Weekly Pass</p>
         <p>$4.28</p>
       </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>257 DM+weekly</p>
+        <p>$5.59</p>
     </div>
-
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>11 Daimonds</p>
+        <p>$0.25</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>22 Daimonds</p>
+        <p>$0.50</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>56 Daimonds</p>
+        <p>$0.97</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>86 Daimonds</p>
+        <p>$1.39</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>172 Daimonds</p>
+        <p>$2.79</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>257 Daimonds</p>
+        <p>$4.00</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>343 Daimonds</p>
+        <p>$4.99</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>429 Daimonds</p>
+        <p>$6.70</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>514 Daimonds</p>
+        <p>$8.00</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>600 Daimonds</p>
+        <p>$9.30</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>706 Daimonds</p>
+        <p>$10.00</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>878 Daimonds</p>
+        <p>$12.70</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>963 Daimonds</p>
+        <p>$14.00</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>1049 Daimonds</p>
+        <p>$15.30</p>
+      </div>
+      <div class="package" onclick="selectPackage(this, 'Weekly Pass x3 - $4.77')">
+        <p>1135 Daimonds</p>
+        <p>$16.70</p>
+      </div>
+      
     <button class="button" onclick="submitDetails()">Submit</button>
     <button class="telegram-btn button" onclick="goToTelegram()">Go to Telegram</button>
   </div>
