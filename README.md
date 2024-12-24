@@ -77,12 +77,8 @@
         </a>
         <!-- Button for AC Payment Option 2 -->
         <a href="https://acledabank.com.kh/acleda?payment_data=qWY5B2SAUfIhLblxzOtfu8yRyA1YGYQ90srEOvcavYLT1luZINlTK61bgq1L3YXQhT0YUE4pmXbW/rJDNpIfuXUqxXWe7TKp9NSdqSqYdVj4+/3R3NfMWNoSE+E4qP1ErZqUMQ7V0FftXK+yvEwWhoQBVDUCG+CdEFml28L/WJglGMzxrp9yq/48aK4d0JiRCcFxLK4P5hg0XnpcMQG00sPzHWo0LFbFKzZuSQIrEWwvEtgcv8iPyqfi9yQqOtEH&key=khqr" class="payment-button" target="_blank">
-            បាញ់លុយដុល្លារ
-            
-      
-       
-       
-       </a>
+            បាញ់លុយដុល្លារ     
+      </a>
     </div>
 </body>
 <html lang="en">
