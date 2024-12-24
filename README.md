@@ -21,21 +21,21 @@
             cursor: pointer;
         }
         .payment-button:hover {
-            background-color: #0056b3;
+            background-color: #fff0000;
         }
     </style>
 </head>
 <body>
     <div class="payment-container">
-        <h1>ABA</h1>
-        <h1>ជ្រើសរើសការទូទាត់របស់អ្នក</h1>
+        <h1>ABA</h1><bakrond contextmenu=""
+        <h1>ជ្រើសរើសការទូទាត់តាមអំពើចិត្ត</h1>
         <!-- Button for ABA Payment Option 1 -->
         <a href="https://pay.ababank.com/H4K9pPwQgC62Wv1E7" class="payment-button" target="_blank">
-            បង់លុយខ្មែរ
+            បាញ់លុយខ្មែរ
         </a>
         <!-- Button for ABA Payment Option 2 -->
         <a href="https://pay.ababank.com/Rijxi44BaxwdXYqE8" class="payment-button" target="_blank">
-            បង់លុយដុល្លារ
+            បាញ់លុយដុល្លារ
         </a>
     </div>
 </body>
