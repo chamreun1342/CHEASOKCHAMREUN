@@ -82,5 +82,33 @@
        </a>
     </div>
 </body>
-    
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telegram Button</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        .button {
+            background-color: #0088cc;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            display: inline-block;
+        }
+        .button:hover {
+            background-color: #005f99;
+        }
+    </style>
+</head>
+<body>
+    <p>ចុចប៊ូតុងខាងក្រោមដើម្បីចូល Telegram របស់ខ្ញុំ:</p>
+    <a href="@CHEASOKCHAMREU1111" class="button">ចូល Telegram របស់ខ្ញុំ</a>
+</body>
     
