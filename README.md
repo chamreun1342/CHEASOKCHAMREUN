@@ -79,6 +79,9 @@
         <a href="https://acledabank.com.kh/acleda?payment_data=qWY5B2SAUfIhLblxzOtfu8yRyA1YGYQ90srEOvcavYLT1luZINlTK61bgq1L3YXQhT0YUE4pmXbW/rJDNpIfuXUqxXWe7TKp9NSdqSqYdVj4+/3R3NfMWNoSE+E4qP1ErZqUMQ7V0FftXK+yvEwWhoQBVDUCG+CdEFml28L/WJglGMzxrp9yq/48aK4d0JiRCcFxLK4P5hg0XnpcMQG00sPzHWo0LFbFKzZuSQIrEWwvEtgcv8iPyqfi9yQqOtEH&key=khqr" class="payment-button" target="_blank">
             បាញ់លុយដុល្លារ
             
+      
+       
+       
        </a>
     </div>
 </body>
@@ -108,7 +111,6 @@
     </style>
 </head>
 <body>
-    <p>ចុចប៊ូតុងខាងក្រោមដើម្បីចូល Telegram របស់ខ្ញុំ:</p>
     <a href="@CHEASOKCHAMREU1111" class="button">ចូល Telegram របស់ខ្ញុំ</a>
 </body>
     
