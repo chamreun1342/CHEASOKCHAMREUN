@@ -39,8 +39,6 @@
        </a>
     </div>
 </body>
-
-    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -148,7 +146,6 @@
         }
     </script>
 
-</body>
 </body>
 <html lang="en">
 <head>
