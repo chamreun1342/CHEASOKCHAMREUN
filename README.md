@@ -6,11 +6,11 @@
     <style>
         .payment-container {
             text-align: center;
-            margin-top: 50px;
+            margin-top: 500px;
         }
         .payment-button {
             display: inline-block;
-            padding: 10px 20px;
+            padding: 100px 200px;
             margin: 10px;
             background-color: #007bff;
             color: white;
@@ -35,11 +35,12 @@
         </a>
         <!-- Button for ABA Payment Option 2 -->
         <a href="https://pay.ababank.com/Rijxi44BaxwdXYqE8" class="payment-button" target="_blank">
-            បាញ់លុយដុល្លារ
-            
+            បាញ់លុយដុល្លារ 
        </a>
     </div>
 </body>
+
+    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -77,20 +78,10 @@
         </a>
         <!-- Button for AC Payment Option 2 -->
         <a href="https://acledabank.com.kh/acleda?payment_data=qWY5B2SAUfIhLblxzOtfu8yRyA1YGYQ90srEOvcavYLT1luZINlTK61bgq1L3YXQhT0YUE4pmXbW/rJDNpIfuXUqxXWe7TKp9NSdqSqYdVj4+/3R3NfMWNoSE+E4qP1ErZqUMQ7V0FftXK+yvEwWhoQBVDUCG+CdEFml28L/WJglGMzxrp9yq/48aK4d0JiRCcFxLK4P5hg0XnpcMQG00sPzHWo0LFbFKzZuSQIrEWwvEtgcv8iPyqfi9yQqOtEH&key=khqr" class="payment-button" target="_blank">
-            បាញ់លុយដុល្លារ     
-      </a>
+            បាញ់លុយដុល្លារ
+            
+       </a>
     </div>
-</body>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Telegram Button</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 50px;
 <html lang="km">
 <head>
     <meta charset="UTF-8">
@@ -142,7 +133,7 @@
         <h2>នេះគឺជា KHQR របស់ខ្ញុំ</h2>
         <p>សូមចុចខាងក្រោមសម្រាប់ការទូទាត់:</p>
         <!-- Add the actual KHQR link here -->
-        <a href="https://qrco.de/bff6vE" target="_blank">ចុចទីនេះដើម្បីបាន KHQR $</a>
+        <a href="https://qrco.de/bff8bS" target="_blank">ចុចទីនេះដើម្បីបាន KHQR</a>
     </div>
 
     <script>
@@ -158,6 +149,32 @@
     </script>
 
 </body>
-    <a href="https://t.me/CHEASOKCHAMREU1111" class="button">ចូល Telegram របស់ខ្ញុំ</a>
 </body>
-    
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telegram Button</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        .button {
+            background-color: #0088cc;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            display: inline-block;
+        }
+        .button:hover {
+            background-color: #005f99;
+        }
+    </style>
+</head>
+<body>
+    <a href="@CHEASOKCHAMREU1111" class="button">ចូល Telegram របស់ខ្ញុំ</a>
+</body>
