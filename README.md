@@ -133,7 +133,7 @@
         <h2>នេះគឺជា KHQR របស់ខ្ញុំ</h2>
         <p>សូមចុចខាងក្រោមសម្រាប់ការទូទាត់:</p>
         <!-- Add the actual KHQR link here -->
-        <a href="https://qrco.de/bff8bS" target="_blank">ចុចទីនេះដើម្បីបាន KHQR</a>
+        <a href="https://qrco.de/bff8bS" target="_blank">ចុចទីនេះដើម្បីបាន KHQR $</a>
     </div>
 
     <script>
@@ -150,6 +150,3 @@
 
 </body>
 </html>
-</body>
-<html lang="en">
-<head>
