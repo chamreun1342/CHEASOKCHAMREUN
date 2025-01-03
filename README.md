@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -42,7 +41,6 @@
 </body>
 </html>
 
-    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -84,7 +82,6 @@
             
        </a>
     </div>
-   <!DOCTYPE html>
 <html lang="km">
 <head>
     <meta charset="UTF-8">
