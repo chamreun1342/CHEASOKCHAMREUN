@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -42,7 +41,6 @@
 </body>
 </html>
 
-    
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -84,7 +82,6 @@
             
        </a>
     </div>
-   
 <html lang="km">
 <head>
     <meta charset="UTF-8">
@@ -139,4 +136,20 @@
         <a href="https://qrco.de/bff8bS" target="_blank">ចុចទីនេះដើម្បីបាន KHQR</a>
     </div>
 
-    
+    <script>
+        function toggleQR() {
+            var qrBox = document.getElementById('qrBox');
+            // Toggle displaying the KHQR link box
+            if (qrBox.style.display === "none" || qrBox.style.display === "") {
+                qrBox.style.display = "block";
+            } else {
+                qrBox.style.display = "none";
+            }
+        }
+    </script>
+
+</body>
+</html>
+</body>
+<html lang="en">
+<head>
