@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -39,6 +40,9 @@
        </a>
     </div>
 </body>
+</html>
+
+    <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -80,6 +84,7 @@
             
        </a>
     </div>
+   <!DOCTYPE html>
 <html lang="km">
 <head>
     <meta charset="UTF-8">
@@ -147,6 +152,8 @@
     </script>
 
 </body>
+</html>
+</body>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -174,4 +181,37 @@
 </head>
 <body>
     <a href="@CHEASOKCHAMREU1111" class="button">ចូល Telegram របស់ខ្ញុំ</a>
+</body>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telegram Button</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        .button {
+            background-color: #0088cc;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            display: inline-block;
+        }
+        .button:hover {
+            background-color: #005f99;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://youtube.com/channel/UCzvJQAkjgPx0v6cW7S3F8Ag?si=j3lC-pe86x-2g_6H" class="button">ចូល YouTube របស់ខ្ញុំ</a>
+    <a href="https://www.facebook.com/profile.php?id=100067119603944&mibextid=ZbWKwL" class="button">ចូល Page របស់ខ្ញុំ</a>
+    <h1>ទំនាក់ទំនង</h1>
+    <h3> Smart : 09395589</h3>
+    <h3>Cellcard : 085273404</h3>
 </body>
